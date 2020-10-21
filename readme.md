@@ -1,4 +1,4 @@
-Geopandas Chloropleth US Map
+Geopandas Choropleth US Map
 ============================
 
 Dependencies
